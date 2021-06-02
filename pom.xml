@@ -18,6 +18,12 @@
         <module>Cloud-ConsumerZK-Order80</module>
         <module>Cloud-ProviderConsul-Payment8006</module>
         <module>Cloud-ConsumerConsul-Order80</module>
+        <module>Cloud-consumer-Feign-Order80</module>
+        <module>Cloud-consumer-Feign-Order80</module>
+        <module>Cloud-consumer-Feign-Order80</module>
+        <module>Cloud-consumer-Feigm-Order80</module>
+        <module>Cloud-Provider-Hystrix-Payment8001</module>
+        <module>Cloud-Consumer-Feign-Hystrix-Order80</module>
     </modules>
     <packaging>pom</packaging>
 

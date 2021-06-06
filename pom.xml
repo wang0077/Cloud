@@ -24,6 +24,11 @@
         <module>Cloud-consumer-Feigm-Order80</module>
         <module>Cloud-Provider-Hystrix-Payment8001</module>
         <module>Cloud-Consumer-Feign-Hystrix-Order80</module>
+        <module>Cloud-Consumer-Hystrix-DashBoard9001</module>
+        <module>Cloud-Geteway-Gateway9527</module>
+        <module>Cloud-Config-Center-3344</module>
+        <module>Cloud-Config-Client3355</module>
+        <module>Cloud-Config-Center-3366</module>
     </modules>
     <packaging>pom</packaging>
 

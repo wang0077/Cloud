@@ -40,4 +40,9 @@ public class IPaymentController {
             return new CommonResult<Payment>(444,"查询失败,查询ID:" + id,null);
         }
     }
+
+    @GetMapping(value = "/payment/lb")
+    public String getPaymentLB(){
+        return serverPort;
+    }
 }
